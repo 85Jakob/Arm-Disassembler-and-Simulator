@@ -1,7 +1,6 @@
 /*
-* File: team4_project2.go
-* CS 3339.001: Team 4
-* Authors: Jacob Doney, Jordan Burgess, Trevor Winkler
+* File: Main.go
+* Authors: Jacob Doney
 * Last Update: 11/30/2023
 *
 * Description: LegV8 disassembler to convert machine code back
